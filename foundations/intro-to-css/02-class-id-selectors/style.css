@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.pink {
+    background-color: rgba(100%, 70%, 70%, 50%);
+    font-family: "verdana", "dejavu sans", sans-serif;
+}
+
+#blue {
+    color: rgb(0, 0, 206);
+    font-size: 30px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#bold {
+    background-color: rgb(186, 255, 186);
+    font-weight: bold;
+}
