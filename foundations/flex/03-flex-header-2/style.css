@@ -46,3 +46,27 @@ a {
 ul {
   list-style-type: none;
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+  align-items: center;
+}
+
+ul{ 
+  display: flex;
+  margin: 15px;
+  padding: 0;
+  gap: 16px;
+}
+
+.notifications {
+  display: flex;
+  margin-left: auto;
+  max-height: 30px;
+}
+
+.link-span {
+  min-width: 20px;
+}
